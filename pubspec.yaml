@@ -1,0 +1,19 @@
+name: yet_another_weather_app
+description: "YAWA: Yet Another Weather App"
+author: "Dan Balarin <dan.balarin@gmail.com>"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.0
+  font_awesome_flutter: 4.7.3
+  path_provider: 0.2.2
+  weather_icons_flutter: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
